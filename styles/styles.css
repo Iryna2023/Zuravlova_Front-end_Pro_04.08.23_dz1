@@ -8,11 +8,16 @@ html, body {
     text-align: center;
 }
 
-h3 {
+h3,
+.contact-page a {
     color: rgb(157, 8, 8);
     text-decoration: underline;
 }
 
 ul {
     text-align: left;
+}
+
+.contact-page a {
+    padding-left: 25px;
 }
